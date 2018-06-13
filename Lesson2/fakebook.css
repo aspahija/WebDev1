@@ -1,0 +1,18 @@
+#blue{
+  color: blue;
+  text-align: center;
+}
+
+#profilePicture{
+  width: 150px;
+  height: 150px;
+}
+
+#largeButton{
+  padding: 15px;
+  color: orange;
+}
+
+body{
+    background-color: red;
+}
