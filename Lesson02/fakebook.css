@@ -6,6 +6,7 @@
 #profilePicture{
   width: 150px;
   height: 150px;
+  opacity: 0.6;
 }
 
 #largeButton{
